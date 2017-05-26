@@ -256,7 +256,11 @@ And voilà! You now have a working, live-updating visualization.
   ```
    <div id="map"></div>
   ```
-  4. Add this script tag:
+  4. Either download map-source.js from this repo and link to it in your html file OR add this script tag:
   ```
    <script src="https://unpkg.com/topojson-client@3"></script>
   ```
+  5. For color, add this script tag:
+  ```
+  <script src="https://d3js.org/d3-scale-chromatic.v1.min.js">
+   ```

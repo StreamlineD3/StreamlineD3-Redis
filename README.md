@@ -2,7 +2,7 @@
 Providing developers with a simple way to create live updating visualizations for their streaming data.
 
 ## Features
-  * Customize colors, fonts, heights, widths, and more.å
+  * Customize colors, fonts, heights, widths, and more.
   * A diffing algorithm renders only the data that changes for blazing fast performance.
   * Load balancing through Node clusters lets your app scale to multiple streams and visualizations.
   * Pre-built, ready to use visualizations including: Bar, Line, Scatter, Pie, Bubble, Word-Cloud, and World Map.
